@@ -1,4 +1,4 @@
-# Multiple_Coulomb_Scattering_MicroBooNE
+# Multiple Coulomb Scattering in MicroBooNE
 
 This example code demonstrates the newly developed Multiple Coulomb Scattering algorithm in <arxiv_link_here>.
 
